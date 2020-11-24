@@ -1,6 +1,6 @@
 # My Christmas List
 
-[Amazon Items](amazon.md)
+- [Amazon Items](amazon.md)
 
 [Yoga Ball](https://www.amazon.com/dp/B07CMK5XT4/?coliid=I1LTK2NN1ZBLZV&colid=70DCM2KJNVFM&psc=0)
 
